@@ -1,0 +1,64 @@
+body 
+{
+background-color: orange;
+font-family: Lucida Calligraphy,Monotype Corsiva,Helvetica;
+font-size: 15px;
+color: #000000;
+border: 5px #000000;
+border-style: groove;
+padding: 20px;
+}
+p
+{
+border: solid 1px #000;
+border-radius: 20px;
+width:500px;
+padding: 10px;
+}
+input[type=submit]
+{
+width: 125px;
+background-color: black;
+color: white;
+border-radius: 15px;
+padding: 5px;
+margin-top: 5px;
+margin: 10px 0px 0px 450px;
+}
+input[type=checkbox]
+{
+background-color: black;
+color: white;
+border-radius: 15px;
+padding: 5px;
+margin-top: 5px;
+margin: 10px 0px 0px 0px;
+}
+label
+{
+width: 150px;
+background-color: grey;
+color: white;
+border-radius: 15px;
+padding: 5px;
+margin-top: 5px;
+margin: 10px 10px
+}
+footer
+{
+position:relative;
+top:6%;
+text-align:center;
+}
+main
+{
+border: solid 1px #000;
+border-radius: 20px;
+width:500px;
+padding: 10px;
+margin: 20px 0px 0px 0px;
+}
+form
+{
+}
+
